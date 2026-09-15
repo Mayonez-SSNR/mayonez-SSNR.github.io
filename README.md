@@ -1,1 +1,1 @@
-# jirismekal.gitgub.io
+# jirismekal.github.io
